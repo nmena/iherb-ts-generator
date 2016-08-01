@@ -1,0 +1,464 @@
+{
+  "meta_data": [
+    {
+      "external_id": "iHerb",
+      "name": "iHerb"
+    }
+  ],
+  "workbooks": [
+    {
+      "File Name": "F. Item Recap.xlsx",
+      "sheets": [
+        {
+          "Sheet (Tab) Name": "Sheet1",
+          "Starting Row": 4,
+          "Applicable Scopes": [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "automatic_data": [
+
+  ],
+  "fields": [
+    {
+      "external_id": "unit_upc",
+      "name": "Unit Upc ",
+      "data_type": "number",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!A",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "case_upc",
+      "name": "Case Upc ",
+      "data_type": "number",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!B",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "vendor_item_number_sku",
+      "name": "Vendor Item Number (Sku)",
+      "data_type": "number",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!C",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "brand_name",
+      "name": "Brand Name",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!D",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "product_name_description",
+      "name": "Product Name / Description",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!E",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "weight_volume_in_units_of_measure",
+      "name": "Weight/ Volume In Units Of Measure",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!F",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "dimensions",
+      "name": "Dimensions",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!G",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "master_case",
+      "name": "Master Case",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!H",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "case_count",
+      "name": "Case Count",
+      "data_type": "number",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!I",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "i_herb_cost",
+      "name": "I Herb Cost",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!J",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "wholesale_price",
+      "name": "Wholesale Price",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!K",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "our_price_i_herb_retail",
+      "name": "Our Price (I Herb Retail)",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!L",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "msrp",
+      "name": "Msrp",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!M",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "mark_up_cost_to_our_price",
+      "name": "Mark Up (Cost To Our Price)",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!N",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "discount_off_ws_price",
+      "name": "Discount % Off Ws Price",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!O",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "_html_map_b_if_applicable_b_html",
+      "name": "<Html>Map <B>(If Applicable)</B></Html>",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!P",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "vendor_sales_ranking",
+      "name": "Vendor Sales Ranking",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!Q",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "country_of_origin",
+      "name": "Country Of Origin",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!R",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "availability_date",
+      "name": "Availability Date",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!S",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "guaranteed_delivered_shelf_life",
+      "name": "Guaranteed Delivered Shelf Life ",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!T",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "national_motor_freight_classification_nmfc",
+      "name": "National Motor Freight Classification (Nmfc)",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!U",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "dg",
+      "name": "Dg?",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!V",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    },
+    {
+      "external_id": "msds_sds_form_for_all_personal_care_and_home_products",
+      "name": "Msds/ Sds Form? (For All Personal Care And Home Products)",
+      "data_type": "string",
+      "html_description": null,
+      "field_group_external_id": null,
+      "required": false,
+      "classifier": false,
+      "column(s)": "[F. Item Recap.xlsx]'Sheet1'!W",
+      "applicable_scope": [
+
+      ],
+      "requirements": [
+
+      ],
+      "field_values": [
+
+      ]
+    }
+  ]
+}
